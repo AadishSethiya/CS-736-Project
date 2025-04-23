@@ -2,6 +2,12 @@
 
 This repository provides a comprehensive framework for image deblurring using various restoration algorithms. The framework includes implementations of classic deblurring methods like Wiener Deconvolution, Richardson-Lucy Deconvolution, and Total Variation Deblurring.
 
+## GitHub Link for Results and Report
+
+```
+https://github.com/AadishSethiya/CS-736-Project.git
+```
+
 ## Features
 
 - Multiple deblurring algorithms with customizable parameters
