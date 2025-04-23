@@ -1,1 +1,0 @@
-"{'parameters': {'method': 'wiener', 'kernel_size': 20, 'angle': 90.0, 'noise_sigma': 3.0, 'nsr': 0.01, 'pad_size': 30}, 'metrics': {'blurred': {'lpips': 0.33811089396476746}, 'deblurred': {'lpips': 0.26870161294937134}, 'improvement': {'lpips': 0.06940928101539612}}, 'execution_time': 0.04238581657409668}"
