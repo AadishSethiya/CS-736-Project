@@ -1,0 +1,1 @@
+"{'parameters': {'method': 'total_variation', 'kernel_size': 20, 'angle': 45.0, 'noise_sigma': 5.0, 'lambda_param': 0.01, 'iterations': 500, 'pad_size': 30}, 'metrics': {'blurred': {'lpips': 0.2301512062549591}, 'deblurred': {'lpips': 0.15748848021030426}, 'improvement': {'lpips': 0.07266272604465485}}, 'execution_time': 37.08598804473877}"

@@ -1,0 +1,1 @@
+"{'parameters': {'method': 'richardson_lucy', 'kernel_size': 20, 'angle': 90.0, 'noise_sigma': 3.0, 'iterations': 50}, 'metrics': {'blurred': {'lpips': 0.33585986495018005}, 'deblurred': {'lpips': 0.2579987645149231}, 'improvement': {'lpips': 0.07786110043525696}}, 'execution_time': 16.245314598083496}"
