@@ -103,11 +103,3 @@ For each processed image, the framework generates:
 - Execution time statistics
 
 Results are organized in the output directory by method and image name.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the MIT License.
